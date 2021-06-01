@@ -33,6 +33,9 @@ h3 {
 h1 {
   font-size: 80px;
   line-height: 94px;
+}
+
+h1.title {
   border-bottom: solid 2px #363636;
   margin-bottom: 17px;
 }
@@ -40,6 +43,9 @@ h1 {
 h2 {
   font-size: 32px;
   line-height: 43px;
+}
+
+h2.title{
   border-bottom: solid 1px #000;
   padding-bottom: 16px;
 }
